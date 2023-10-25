@@ -1,0 +1,4 @@
+websockets~=12.0
+names~=0.3.0
+aiofile~=3.8.8
+httpx~=0.25.0

@@ -1,0 +1,6 @@
+Server started
+[{'24.10.2023': {'EUR': {'sale': 38.7613, 'purchase': 38.7613}, 'USD': {'sale': 36.5569, 'purchase': 36.5569}}}]
+
+Server started
+[{'24.10.2023': {'EUR': {'sale': 38.7613, 'purchase': 38.7613}, 'USD': {'sale': 36.5569, 'purchase': 36.5569}}}]
+
